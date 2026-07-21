@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahar-noroozi" alt="bahar-noroozi" /></a> </p>
 
-- 💻 I’m currently working on **AVISTA**
+- 👩🏻‍💻 I’m currently working on **AVISTA**
 
 - 📖 I’m currently learning **ReactJS**
 
-- 👩🏻‍💻 All of my projects are available at [https://github.com/Bahar-Noroozi/Bahar-Noroozi](https://github.com/Bahar-Noroozi/Bahar-Noroozi)
+- 🌸 All of my projects are available at [https://github.com/Bahar-Noroozi/Bahar-Noroozi](https://github.com/Bahar-Noroozi/Bahar-Noroozi)
 
 - 💁🏻‍♀️ Ask me about **every thing that you cant understood**
 
